@@ -8,5 +8,5 @@ This repo contains a project that aims to simulate the World CUp using ML Algori
 - Run model.ipynb, which creates and analyses the prediction model.
 - Run wc simulation.ipynb, which simulate FIFA 2022 World Cup.
 
-The final result was Brazil vs. France at the final, with France winning their third title.
-The code isn't finished and it's not explained yet, this is the first version!
+The final result was Brazil vs. England at the final, with Brazil winning their sith title.
+If you want to read some explanation about the code: https://www.kaggle.com/code/sslp23/predicting-fifa-2022-world-cup-with-ml
